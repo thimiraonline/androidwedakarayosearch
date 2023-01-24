@@ -48,6 +48,10 @@ To add a new package to the repo:
 - `yarn ship` is an alias for `lerna publish`
     - Publishes all packages which have changed
     - Also updates any packages which depend on changed packages
+    
+## Activities
+
+![Alt](https://repobeats.axiom.co/api/embed/47f458588207c6a7e26afd9df0d46f43de0935eb.svg "Repobeats analytics image")
 
 
 # Copyright & License
